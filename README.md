@@ -8,13 +8,13 @@ Installation 📡
 **Go 1.17+**
 
 ```console
-go install -v github.com/edoardottt/gonesis@latest
+go install -v github.com/89CANDY89/GO_PROJECT@latest
 ```
 
 **otherwise**
 
 ```console
-go get -v github.com/edoardottt/gonesis
+go get -v github.com/89CANDY89/GO_PROJECT
 ```
 
 Usage 💻
@@ -27,18 +27,18 @@ gonesis
 or if you encounter errors try:
 
 ```console
-~/go/bin/gonesis
+~/go/bin/GO_PROJECT
 ```
 
 Changelog 📌
 -------
 
-Detailed changes for each release are documented in the [release notes](https://github.com/edoardottt/gonesis/releases).
+Detailed changes for each release are documented in the [release notes](https://github.com/edoardottt/GO_PROJECT/releases).
 
 Contributing 🤝
 ------
 
-If you want to contribute to this project, you can start opening an [issue](https://github.com/edoardottt/gonesis/issues).
+If you want to contribute to this project, you can start opening an [issue](https://github.com/89CANDY89/GO_PROJECT/issues).
 
 Before opening a pull request, download [golangci-lint](https://golangci-lint.run/usage/install/) and run
 
